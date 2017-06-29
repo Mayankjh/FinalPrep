@@ -1,0 +1,29 @@
+{
+  "name": "finalprep",
+  "version": "1.0.0",
+  "description": "college site",
+  "main": "server",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.3",
+    "express-validation": "^1.0.2",
+    "express-validator": "^3.2.0",
+    "mongoose": "^4.10.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node finalprep.js"
+  },
+  "keywords": [
+    "finalprep",
+    "mayank"
+  ],
+  "author": "mjms",
+  "license": "ISC"
+}
